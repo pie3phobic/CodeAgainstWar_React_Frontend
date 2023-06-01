@@ -22,4 +22,6 @@ Pros: We offer our expertise for challenges, reports on how much money was earne
 
 ![localhost_3000_challenges](https://github.com/pie3phobic/CodeAgainstWar_React_Frontend/assets/115817261/59efe723-9b35-4ead-aac7-97f7500c12ef)
 ![localhost_3000_challenges (1)](https://github.com/pie3phobic/CodeAgainstWar_React_Frontend/assets/115817261/ffe4b1e3-4366-4783-8eb3-7c3692525be0)
+![image](https://github.com/pie3phobic/CodeAgainstWar_React_Frontend/assets/115817261/a47b5db0-1997-45aa-8aaa-ca2196c2fb3e)
+
 
