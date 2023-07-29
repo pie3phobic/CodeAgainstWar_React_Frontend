@@ -1,4 +1,4 @@
-This project was made for university's startup jam event. This repository includes initial UX/UI design and pages without backend integration.
+This project was made for university's startup jam event. This repository includes initial UX/UI design and pages before backend integration.
 # codeagainstwar - Annotation
 Are you a young brilliant mind that dreams of becoming a software developer and wants to put your intelligence to a good use? Perhaps, you're a tech company that is looking for fresh talents, who are waiting to be discovered.
 CodeAgainstWar is a charitable platform that lets its' users take up on programming challenges and if successful a certain amount of money will be transferred for https://savelife.in.ua/ (Come Back Alive foundation). Companies can set up their own “hackathon-like” contests and “match” with a perfect trainee to be.
